@@ -1,5 +1,5 @@
 # UD_MLFND_P1
-# Build a move trailer website
+# Build a movie trailer website
 
 This project generates a website that displays the movies.
 
